@@ -1,5 +1,3 @@
-//Students: Joseph Mowery, Reagan Milchling
-//file: Main.cpp
 //desc: C/C++ implementation of Pollard-Rho 
 //      Also contains an implementation of Brent's optimized Pollard-Rho
 
