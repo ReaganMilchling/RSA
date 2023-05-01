@@ -1,6 +1,6 @@
 # RSA
-A collection of programs used to generate and crack RSA keypairs. 
-This was originally made for a final for my 400 level Algorithms course.
+A collection of programs I wrote to generate and crack RSA keypairs. 
+This was originally made as a final exam for my 400 level Algorithms course.
 The final grade was an A.
 
 Originally I tried to write creative code in java but switched to CPP for it's speed and efficiency. Often times my CPP code was 10x as fast. 
