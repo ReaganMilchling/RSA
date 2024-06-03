@@ -1,3 +1,0 @@
-/home/reagan/development/Factor/CMakeFiles/Factor.dir
-/home/reagan/development/Factor/CMakeFiles/edit_cache.dir
-/home/reagan/development/Factor/CMakeFiles/rebuild_cache.dir
