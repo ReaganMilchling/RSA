@@ -1,1 +1,0 @@
-/usr/bin/c++  -Wall -Werror -std=c++14 -lgmpxx -lgmp CMakeFiles/Factor.dir/src/main.cpp.o -o Factor
